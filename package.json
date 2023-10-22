@@ -1,0 +1,8 @@
+{
+    "name": "codemirror-workspace",
+    "workspaces": [
+        "lezer-julia",
+        "lang-julia",
+        "codemirror-pluto-setup"
+    ]
+}

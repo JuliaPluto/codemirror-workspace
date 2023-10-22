@@ -1,0 +1,9 @@
+[submodule "lang-julia"]
+	path = lang-julia
+	url = https://github.com/juliapluto/lang-julia.git
+[submodule "codemirror-pluto-setup"]
+	path = codemirror-pluto-setup
+	url = https://github.com/juliapluto/codemirror-pluto-setup.git
+[submodule "lezer-julia"]
+	path = lezer-julia
+	url = https://github.com/juliapluto/lezer-julia.git
